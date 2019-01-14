@@ -6,7 +6,7 @@ import android.util.Log;
  * Created by tsy on 16/8/15.
  */
 public class LogUtils {
-    
+
     private static final String TAG = "MyOkHttp";
     private static boolean LOG_ENABLE = true;
     private static boolean DETAIL_ENABLE = true;
