@@ -7,7 +7,8 @@ import android.os.Bundle;
 import com.gl.myapp.view.LoginActivity;
 
 public class MainActivity extends AppCompatActivity {
- 
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
